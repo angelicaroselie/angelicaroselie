@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelica Roselie (@angelicaroselie).
 - 👀 I’m interested in front-end web development, digital marketing, and DJing.
-- 🌱 I’m currently learning JavaScript frameworks: Vue.js and React.js.
+- 🌱 I’m currently learning Vue.js, React.js, PHP, and Python3.
 - 💞️ I’m looking to collaborate on everything related to my skillset. Check out my web dev portfolio: https://angelicaroselie.github.io/.
 - 📫 How to reach me: Check out my contact information on my website: https://www.angelicaroselie.com/social.
 
